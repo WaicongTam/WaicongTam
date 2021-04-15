@@ -1,9 +1,10 @@
 # Hello there 👋 This is Waicong Charles Tam
 
-I'm a developer, data scientist and researcher located in Melbourne, Australia! I am currently working as a teaching associate in some data science and machine learning units at Monash University.
+I'm a developer, data scientist and researcher located in Melbourne, Australia! I am currently working as a data services developer at Monash University. I am also a teaching associate in some data science and machine learning units at Monash University.
 
 ## My Skill set
- - I am an Android developer 📱 so I program in Java ☕️.
+ - I use python as my working language.
+ - I am an Android and backend developer 📱 so I program in Java ☕️.
  - I am also an amateur frontend developer using React ⚛️ and Angular 🦌!
  - As a data scientist and researcher, I can code in python 🐍 (of course), R and matlab! My preferred modelling framework is pytorch, but I am also studying tensorflow.keras and tensorflow. 
 
