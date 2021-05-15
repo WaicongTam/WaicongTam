@@ -4,6 +4,7 @@ I'm a developer, data scientist and researcher located in Melbourne, Australia! 
 
 ## My Skill set
  - I use python as my working language.
+ - I have experiences of Azure Databricks and Delta Lake
  - I am an Android and backend developer 📱 so I program in Java ☕️.
  - I am also an amateur frontend developer using React ⚛️ and Angular 🦌!
  - As a data scientist and researcher, I can code in python 🐍 (of course), R and matlab! My preferred modelling framework is pytorch, but I am also studying tensorflow.keras and tensorflow. 
