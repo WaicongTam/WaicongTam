@@ -1,13 +1,12 @@
 # Hello there 👋 This is Waicong Charles Tam
 
-I'm a doctoral researcher and data scientist located in Melbourne, Australia! I am a PhD candidate at Faculty of Information Technology, Monash University.
+I'm a data scientist living in Melbourne, Australia! I am a PhD graduate at the Faculty of Information Technology, Monash University.
 
-## My Skill set
- - I use python as my working language.
- - I have experiences of Azure Databricks and Delta Lake
- - I am an Android and backend developer 📱 so I program in Java ☕️.
+## My Skillset
+ - I use `python` as my working language
+ - I have experience with AWS, Azure, Databricks, and Delta Lake
  - I am also an amateur frontend developer using React ⚛️ and Angular 🦌!
- - As a data scientist and researcher, I can code in python 🐍 (of course), R and matlab! My preferred modelling framework is pytorch, but I am also studying tensorflow.keras and tensorflow. 
+ - My preferred modelling framework is `PyTorch`, but I am also studying `TensorFlow.Keras`, and `TensorFlow`. 
 
 ## Find me on the Internet
  - My [LinkedIn profile](https://www.linkedin.com/in/weicong-tan-571861126/)
